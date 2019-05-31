@@ -16,7 +16,8 @@ def first_challenge
   #your code here
 contacts.["Freddy Mercury"].each do |element, value|
   if :element == favorite_icecream_flavors
-    value.delete 
+    value.delete_if do |flavor|
+      
 
   #remember to return your newly altered contacts hash!
   contacts
