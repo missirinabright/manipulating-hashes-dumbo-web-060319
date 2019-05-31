@@ -14,7 +14,8 @@ def first_challenge
   }
 
   #your code here
-contacts.""
+contacts.["Freddy Mercury"].each do |element, value|
+  con 
 
   #remember to return your newly altered contacts hash!
   contacts
