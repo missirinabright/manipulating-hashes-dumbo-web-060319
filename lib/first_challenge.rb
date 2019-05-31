@@ -15,7 +15,7 @@ def first_challenge
 
   #your code here
 contacts.["Freddy Mercury"].each do |element, value|
-  con 
+  if :element == favorite_icecream_flavors = 
 
   #remember to return your newly altered contacts hash!
   contacts
